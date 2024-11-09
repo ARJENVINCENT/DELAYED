@@ -28,10 +28,18 @@ the analysi cover
 
 ### exploratory data analysis (EDA)
 In this EDA phase, we will examine
-
+ 
 ### key questions to adress
 1. **total number of drivers:**
 determine the number of drivers
 
 ### used SQL codes used
+from employers
+where job 
+
+### recommendations
+based on exploratory data analysis, the following are recommended
+1. ** optimize workforce allocation **
+
+### report 
   
