@@ -1,11 +1,27 @@
 # DELAYED
 
-###PROJECT OVERVIEW
+### PROJECT OVERVIEW
 
-###OBJECTIVES
+### OBJECTIVES
 
 This projects investigates the root cause of delays in the oil transfer and purposes of a strategic plan
 
-###scope
+### scope
 the analysi cover
 -current transfer and hand handling
+
+
+### METHODOLOGY
+- Data
+- analysis
+- root cause
+- solution proporsal
+
+### DATA SOURCE
+  Data set provided by client as a CSV
+
+### Tools
+1. microsoft excel
+2. powerbi
+3. microsoft word
+  
