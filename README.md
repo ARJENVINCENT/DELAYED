@@ -24,4 +24,12 @@ the analysi cover
 1. microsoft excel
 2. powerbi
 3. microsoft word
+
+
+### exploratory data analysis (EDA)
+In this EDA phase, we will examine
+
+### key questions to adress
+1. **total number of drivers**
+determine the number of drivers
   
