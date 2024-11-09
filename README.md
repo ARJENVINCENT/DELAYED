@@ -34,8 +34,9 @@ In this EDA phase, we will examine
 determine the number of drivers
 
 ### used SQL codes used
-from employers
-where job 
+```from employers
+where job
+```
 
 ### recommendations
 based on exploratory data analysis, the following are recommended
