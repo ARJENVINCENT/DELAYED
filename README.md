@@ -30,6 +30,6 @@ the analysi cover
 In this EDA phase, we will examine
 
 ### key questions to adress
-1. **total number of drivers**
+1. **total number of drivers:**
 determine the number of drivers
   
